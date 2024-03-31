@@ -1,0 +1,35 @@
+{
+    "name": "Blog Project",
+    "blogs": [
+        {
+            "title": "Jhon Deo",
+            "tag": "World",
+            "content": "The Case of the Vanishing Remote:  Just when you need to settle in for a movie night, the ever-important remote control seems to have taken a vacation.  Underneath the couch cushions? Between the couch and the coffee table?  Lost in the TV stand abyss?  The remote seems to possess an uncanny ability to disappear precisely at the moment you need it most.",
+            "status": "Active"
+        },
+        {
+            "title": "Jemes Deo",
+            "tag": "World",
+            "content": "The Case of the Vanishing Remote:  Just when you need to settle in for a movie night, the ever-important remote control seems to have taken a vacation.  Underneath the couch cushions? Between the couch and the coffee table?  Lost in the TV stand abyss?  The remote seems to possess an uncanny ability to disappear precisely at the moment you need it most.",
+            "status": "Active"
+        },
+        {
+            "title": "Jarry",
+            "tag": "World",
+            "content": "The Case of the Vanishing Remote:  Just when you need to settle in for a movie night, the ever-important remote control seems to have taken a vacation.  Underneath the couch cushions? Between the couch and the coffee table?  Lost in the TV stand abyss?  The remote seems to possess an uncanny ability to disappear precisely at the moment you need it most.",
+            "status": "Active"
+        },
+        {
+            "title": "Tom",
+            "tag": "World",
+            "content": "The Case of the Vanishing Remote:  Just when you need to settle in for a movie night, the ever-important remote control seems to have taken a vacation.  Underneath the couch cushions? Between the couch and the coffee table?  Lost in the TV stand abyss?  The remote seems to possess an uncanny ability to disappear precisely at the moment you need it most.",
+            "status": "Active"
+        },
+        {
+            "title": "Tonny",
+            "tag": "World",
+            "content": "The Case of the Vanishing Remote:  Just when you need to settle in for a movie night, the ever-important remote control seems to have taken a vacation.  Underneath the couch cushions? Between the couch and the coffee table?  Lost in the TV stand abyss?  The remote seems to possess an uncanny ability to disappear precisely at the moment you need it most.",
+            "status": "Active"
+        }
+    ]
+}

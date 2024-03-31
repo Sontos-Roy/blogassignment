@@ -1,0 +1,30 @@
+.bg-muted{
+    background-color: rgba(211, 252, 255, 0.212);
+}
+.table-bordered{
+    border: solid white !important;
+}
+.table-bordered tbody td{
+    border-width: 10px;
+}
+tbody .team-tr td > div{
+    
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgba(128, 128, 128, 0.199);
+    height: 100px;
+    padding: 10px;
+}
+.align-item-center{
+    align-items: center;
+}
+.picture{
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+    overflow: hidden;
+    margin: 20px;
+}
+.picture img{
+    width: 100%;
+    transform: scale(1.1);
+}
